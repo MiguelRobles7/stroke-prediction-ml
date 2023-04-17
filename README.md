@@ -14,4 +14,5 @@ In Command Line
   pip install -r requirements.txt
 ```
 
-Then simply run the Jupyter Notebook `main.ipynb` or access the same view in web at `web_view.html`
+Then simply run the Jupyter Notebook `main.ipynb`.<br/>
+The full web version of the project may also be viewed at https://miguelrobles7.github.io/stroke-ml-view/index.html
